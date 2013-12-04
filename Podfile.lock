@@ -1,0 +1,10 @@
+PODS:
+  - Facebook-iOS-SDK (3.10.0)
+
+DEPENDENCIES:
+  - Facebook-iOS-SDK (~> 3.10.0)
+
+SPEC CHECKSUMS:
+  Facebook-iOS-SDK: ef402579aeb30cf0c4a6370fb0a927e3dc3059e5
+
+COCOAPODS: 0.25.0
